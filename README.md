@@ -1,5 +1,8 @@
 # MODUDA
-마음치료 솔루션 MODUDA 어플 프로토타입 
+마음치료 솔루션 MODUDA 어플 프로토타입
+
+### Tool
+<img src="https://img.shields.io/badge/figma-F8DC75?style=for-the-badge&logo=figma&logoColor=black"> <img src="https://img.shields.io/badge/Adobe Illustrator-FF0000?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
 
 ### Go to Start🏁 ###
 https://www.figma.com/proto/pDQkxr6H1YlAhRJdhmZs0z/%EB%AA%A8%EB%91%90%EB%8B%A4?node-id=153%3A23011&starting-point-node-id=153%3A23011
