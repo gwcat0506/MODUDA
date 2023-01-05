@@ -8,22 +8,20 @@ https://www.figma.com/proto/pDQkxr6H1YlAhRJdhmZs0z/%EB%AA%A8%EB%91%90%EB%8B%A4?n
 https://www.figma.com/file/NUoRPTBht5PpfgYftQIaZF/%EB%A7%88%EC%9D%8C%EC%B9%98%EB%A3%8C-%EC%86%94%EB%A3%A8%EC%85%98-%EB%AA%A8%EB%91%90%EB%8B%A4(MODUDA)?node-id=189%3A4764&t=iRYmAXsVzbSF18UX-0
 
 
-![슬라이드1](https://user-images.githubusercontent.com/61350052/210732893-adcda6e6-9744-48c3-be3b-045167af292c.png)
-![슬라이드2](https://user-images.githubusercontent.com/61350052/210732901-a2926052-7a10-4029-a49b-c2d3827e52f7.png)
-![슬라이드3](https://user-images.githubusercontent.com/61350052/210732907-ea2920a6-681c-47f1-bd2a-7387f9940cc0.png)
-![슬라이드4](https://user-images.githubusercontent.com/61350052/210732911-ad792d97-b37b-4a1b-890c-1d883687d06a.png)
-![슬라이드5](https://user-images.githubusercontent.com/61350052/210732914-30bf0cdb-bfab-4bb0-b57e-b8393cbcbf78.png)
-![슬라이드6](https://user-images.githubusercontent.com/61350052/210732918-a2646d94-38ea-4bfe-af32-637b92c8f6d3.png)
-![슬라이드7](https://user-images.githubusercontent.com/61350052/210732922-b83a088d-54a2-4060-958a-2059070c4e4f.png)
-![슬라이드8](https://user-images.githubusercontent.com/61350052/210732923-b50cafe6-7e2f-4940-bd70-15b2eb5ef237.png)
-![슬라이드9](https://user-images.githubusercontent.com/61350052/210732928-b9201380-10c7-4889-bc21-0e83b042c647.png)
-![슬라이드10](https://user-images.githubusercontent.com/61350052/210732930-42354855-4b51-4c7c-aa40-1ac309de723d.png)
-![슬라이드11](https://user-images.githubusercontent.com/61350052/210732933-8f0d908b-8ab9-4c0d-a439-a81c324d5228.png)
+![슬라이드1](https://user-images.githubusercontent.com/61350052/210734747-b40eeb22-7547-4f08-871c-9c5df6ac9a8a.png)
+![슬라이드2](https://user-images.githubusercontent.com/61350052/210734757-4c7aae8c-5505-452b-833f-5cb7c07e990a.png)
+![슬라이드3](https://user-images.githubusercontent.com/61350052/210734778-aa5d2854-788a-424c-b49d-d771cafd0190.png)
+![슬라이드4](https://user-images.githubusercontent.com/61350052/210734782-b9f68706-c0a4-4f74-9717-8da374fc9d21.png)
+![슬라이드5](https://user-images.githubusercontent.com/61350052/210734790-5a4b6aca-38e7-4e6c-aa2a-77035704e174.png)
+![슬라이드6](https://user-images.githubusercontent.com/61350052/210734798-9f8137ea-8733-425f-bf51-96a7584934cd.png)
+![슬라이드7](https://user-images.githubusercontent.com/61350052/210734805-b7d44071-9fda-42bb-85f4-61421e04a952.png)
+![슬라이드8](https://user-images.githubusercontent.com/61350052/210734811-05cf9ad9-c15f-4413-9cba-8c96697c37bd.png)
+![슬라이드9](https://user-images.githubusercontent.com/61350052/210734816-6917e3bc-7cf4-4f43-8152-718516d22538.png)
+![슬라이드10](https://user-images.githubusercontent.com/61350052/210734831-4fb4e6e3-6294-4f49-979e-3ab1d6b6367b.png)
+![슬라이드11](https://user-images.githubusercontent.com/61350052/210734837-b0d39aab-faf5-4a0a-82ca-ee1a6ac0678c.png)
 
 
-
-
-
+# 목차
 ## 1.Research
 - 문제 조사
 - 주요 문제 정의
