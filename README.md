@@ -1,6 +1,13 @@
 # MODUDA
 마음치료 솔루션 MODUDA 어플 프로토타입
 
+### 만든이
+|<img src="https://github.com/gwcat0506.png" width="80">|<img src="https:" width="80">|
+|:---:|:---:|
+|[](https://github.com/gwcat0506)|[](https://github.com/최현준)|
+|gwcat0506|Danny choi|
+|디자인,피그마|디자인,일러스트,피그마|
+
 ### Tool
 <img src="https://img.shields.io/badge/figma-F8DC75?style=for-the-badge&logo=figma&logoColor=black"> <img src="https://img.shields.io/badge/Adobe Illustrator-FF0000?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
 
@@ -22,6 +29,8 @@ https://www.figma.com/file/NUoRPTBht5PpfgYftQIaZF/%EB%A7%88%EC%9D%8C%EC%B9%98%EB
 ![슬라이드9](https://user-images.githubusercontent.com/61350052/210734816-6917e3bc-7cf4-4f43-8152-718516d22538.png)
 ![슬라이드10](https://user-images.githubusercontent.com/61350052/210734831-4fb4e6e3-6294-4f49-979e-3ab1d6b6367b.png)
 ![슬라이드11](https://user-images.githubusercontent.com/61350052/210734837-b0d39aab-faf5-4a0a-82ca-ee1a6ac0678c.png)
+
+
 
 
 # 목차
