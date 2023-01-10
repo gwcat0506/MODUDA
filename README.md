@@ -2,7 +2,7 @@
 마음치료 솔루션 MODUDA 어플 프로토타입
 
 ### 만든이
-|<img src="https://github.com/gwcat0506.png" width="80">|<img src="https:" width="80">|
+|<img src="https://github.com/gwcat0506.png" width="80">|<img src="https://github.com/vndnc" width="80">|
 |:---:|:---:|
 |[](https://github.com/gwcat0506)|[](https://github.com/vndnc)|
 |gwcat0506|Danny choi|
