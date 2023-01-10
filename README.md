@@ -4,7 +4,7 @@
 ### 만든이
 |<img src="https://github.com/gwcat0506.png" width="80">|<img src="https:" width="80">|
 |:---:|:---:|
-|[](https://github.com/gwcat0506)|[](https://github.com/최현준)|
+|[](https://github.com/gwcat0506)|[](https://github.com/vndnc)|
 |gwcat0506|Danny choi|
 |디자인,피그마|디자인,일러스트,피그마|
 
